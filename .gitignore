@@ -1,8 +1,8 @@
 # CUSTOME
-*/data/*
-*/models/*
-*/figs/*
-*/logs/*
+data
+models
+figs
+logs
 
 # TE# Created by https://www.toptal.com/developers/gitignore/api/images,python,data,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=images,python,data,jupyternotebooks
